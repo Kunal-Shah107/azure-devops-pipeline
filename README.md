@@ -2,9 +2,9 @@
 This repo is used for deploying Azure resources through Azure DevOps Pipeline
 
 Prerequisites :
-Create a resource group in Azure.
-Create a Storage account in Azure.
-Create a Container inside the storage account in Azure.
+- Create a resource group in Azure.
+- Create a Storage account in Azure.
+- Create a Container inside the storage account in Azure.
 
 Variables :
 
